@@ -1,6 +1,6 @@
 # 퍼스널 라이저 스트리밍 (Personalizer Streaming)
 
-![Personalizer-Streaming_logo](https://github.com/dongkoony/Personalizer-Streaming/assets/109497684/444aee23-f90c-49b8-847a-1207f97abc15)
+![Personalizer-Streaming_logo_sample](https://github.com/dongkoony/Personalizer-Streaming/assets/109497684/3c2ab7df-65f4-497a-89a8-19e1486b9764)
 
 ## AI 기반 맞춤형 음악 스트리밍 플랫폼
 
