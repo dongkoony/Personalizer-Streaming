@@ -1,15 +1,15 @@
-# 퍼스널 라이저 스트리밍 (Personalizer Streaming)
+# Spotify 퍼스널 라이저 스트리밍 (Personalizer Streaming)
 
 ![Personalizer-Streaming_logo_sample](https://github.com/dongkoony/Personalizer-Streaming/assets/109497684/3c2ab7df-65f4-497a-89a8-19e1486b9764)
 
-## AI 기반 맞춤형 음악 스트리밍 플랫폼
+## Spotify AI 기반 맞춤형 음악 스트리밍 플랫폼
 
 퍼스널 라이저 스트리밍(Personalizer Streaming)은 AI 기술을 활용하여 사용자에게 개인화된 음악 스트리밍 서비스를 제공하는 플랫폼입니다. 이 플랫폼을 통해 사용자들은 자신만의 플레이리스트를 만들고, 음악 추천을 받을 수 있습니다.
 
 
 ## 프로젝트 개요
 
-"퍼스널 라이저 스트리밍(Personalizer Streaming)"은 사용자의 음악 청취 경험을 혁신하고, AI를 활용하여 개인화된 음악 추천을 제공합니다. 이 프로젝트는 다음과 같은 주요 컴포넌트로 구성됩니다:
+"Spotify 퍼스널 라이저 스트리밍(Personalizer Streaming)"은 사용자의 음악 청취 경험을 혁신하고, AI를 활용하여 개인화된 음악 추천을 제공합니다. 이 프로젝트는 다음과 같은 주요 컴포넌트로 구성됩니다:
 
 
 1. **Presentation Tier (사용자 인터페이스)**:
