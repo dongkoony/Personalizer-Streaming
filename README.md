@@ -57,9 +57,15 @@
 
 ## 설치 및 사용법
 
-1. 이 저장소를 클론합니다.
+### 1. 이 저장소를 클론합니다.
    ```bash
    git clone https://github.com/yourusername/your-repo.git
    cd your-repo
+   ```
 
-
+### 2. 가상 환경을 설정하고 필수 라이브러리를 설치합니다.
+   ```bash
+   virtualenv venv
+   source venv/bin/activate  # Windows에서는 'source venv/Scripts/activate'를 사용하세요.
+   pip install -r requirements.txt
+   ```
